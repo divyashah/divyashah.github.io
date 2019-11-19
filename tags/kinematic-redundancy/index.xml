@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kinematic redundancy | Divya Shah</title>
+    <link>https://divyashah.github.io/tags/kinematic-redundancy/</link>
+      <atom:link href="https://divyashah.github.io/tags/kinematic-redundancy/index.xml" rel="self" type="application/rss+xml" />
+    <description>kinematic redundancy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://divyashah.github.io/img/icon-192.png</url>
+      <title>kinematic redundancy</title>
+      <link>https://divyashah.github.io/tags/kinematic-redundancy/</link>
+    </image>
+    
+    <item>
+      <title>Master Thesis</title>
+      <link>https://divyashah.github.io/project/master-thesis/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://divyashah.github.io/project/master-thesis/</guid>
+      <description>&lt;p&gt;This was the master thesis project during the graduate study with Laboratoire des Sciences du Numérique de Nantes (LS2N) at École Centrale de Nantes, France.&lt;/p&gt;
+
+&lt;p&gt;The project was in collaboration with Centre Technique des Industries Mécaniques (&lt;a href=&#34;https://www.cetim.fr/Le-Cetim/Implantations/Sites/Nantes&#34; target=&#34;_blank&#34;&gt;CETIM&lt;/a&gt;) and Institut Mines-Telecom Atlantique (&lt;a href=&#34;https://www.imt-atlantique.fr/fr&#34; target=&#34;_blank&#34;&gt;IMT-A&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;The industry had an automated tape winding system with a 6-DOF industrial robot and a 2-DOF positioner for the workpiece. The system was kinematically redundant.
+The thesis involved CAD design, simulation and collision detection for the workcell and implementing optimal trajectories by solving the kinematic redundancy, aiming towards increasing the overall productivity of the system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computer-Aided Design and Optimization of a Redundant Robotic System for Automated Fiber Placement Process</title>
+      <link>https://divyashah.github.io/publication/icome-2017/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://divyashah.github.io/publication/icome-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
