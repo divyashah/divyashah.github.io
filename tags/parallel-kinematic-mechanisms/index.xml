@@ -21,18 +21,84 @@
     </item>
     
     <item>
+      <title>Summer School PKM 2018</title>
+      <link>https://divyashah.github.io/talk/pkm-2018/</link>
+      <pubDate>Mon, 17 Sep 2018 13:00:00 +0000</pubDate>
+      <guid>https://divyashah.github.io/talk/pkm-2018/</guid>
+      <description>
+
+&lt;h4 id=&#34;organized-by&#34;&gt;Organized by:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Laboratoire d&amp;rsquo;Informatique, de Robotique et de Microélectronique de Montpellier (&lt;a href=&#34;http://www.lirmm.fr/&#34; target=&#34;_blank&#34;&gt;LIRMM&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Laboratoire des Sciences du Numérique de Nantes (&lt;a href=&#34;https://www.ls2n.fr/&#34; target=&#34;_blank&#34;&gt;LS2N&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Poster&lt;/strong&gt; button above to download the poster presented at the summer school.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IFToMM MEDER 2018</title>
+      <link>https://divyashah.github.io/talk/meder-2018/</link>
+      <pubDate>Tue, 11 Sep 2018 13:00:00 +0000</pubDate>
+      <guid>https://divyashah.github.io/talk/meder-2018/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to download the slides presented at the conference.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Video&lt;/strong&gt; button above to see the workspace CAD simulation of a spherical parallel mechanism.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Comparison of Workspace Analysis for Different Spherical Parallel Mechanisms</title>
-      <link>https://divyashah.github.io/publication/meder-2018/</link>
+      <link>https://divyashah.github.io/publication/comparison-2018/</link>
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://divyashah.github.io/publication/meder-2018/</guid>
+      <guid>https://divyashah.github.io/publication/comparison-2018/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>ASME IDETC/CIE 2018</title>
+      <link>https://divyashah.github.io/talk/idetc-2018/</link>
+      <pubDate>Sun, 26 Aug 2018 13:00:00 +0000</pubDate>
+      <guid>https://divyashah.github.io/talk/idetc-2018/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to download the slides presented at the conference.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Video&lt;/strong&gt; button above to see the workspace CAD simulation of a 4-UU mechanism.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Workspace Analysis and the Effect of Geometric Parameters on Parallel Mechanisms of the N-UU Class</title>
-      <link>https://divyashah.github.io/publication/idetc-2018/</link>
+      <link>https://divyashah.github.io/publication/worksapce-2018/</link>
       <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://divyashah.github.io/publication/idetc-2018/</guid>
+      <guid>https://divyashah.github.io/publication/worksapce-2018/</guid>
       <description></description>
     </item>
     
@@ -57,11 +123,13 @@
 &lt;li&gt;To integrate the new wrist on the iCub platform.&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;hr /&gt;
+
 &lt;h4 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Alberto Parmiggiani&lt;/strong&gt;; Technologist &amp;amp; Facility Coordinator, Istituto Italiano di Tecnologia&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Giorgio Metta&lt;/strong&gt;; Scientific Director, Istituto Italiano di Tecnologia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/authors/alberto-parmiggiani/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Alberto Parmiggiani&lt;/strong&gt;&lt;/a&gt;; Technologist &amp;amp; Facility Coordinator, Istituto Italiano di Tecnologia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/authors/giorgio-metta/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Giorgio Metta&lt;/strong&gt;&lt;/a&gt;; Scientific Director, Istituto Italiano di Tecnologia&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

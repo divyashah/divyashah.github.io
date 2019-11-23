@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tendon-Driven mechanisms | Divya Shah</title>
+    <link>/tags/tendon-driven-mechanisms/</link>
+      <atom:link href="/tags/tendon-driven-mechanisms/index.xml" rel="self" type="application/rss+xml" />
+    <description>tendon-Driven mechanisms</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>tendon-Driven mechanisms</title>
+      <link>/tags/tendon-driven-mechanisms/</link>
+    </image>
+    
+    <item>
+      <title>Period Abroad</title>
+      <link>/project/period-abroad/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/project/period-abroad/</guid>
+      <description>
+
+&lt;h2 id=&#34;design-of-pronation-supination-joint-with-tendon-decoupling&#34;&gt;Design of Pronation-Supination Joint with Tendon Decoupling&lt;/h2&gt;
+
+&lt;p&gt;This is a draft project page for the FPS design and prototyping project done in collaboration with the Interactive Robotics and Innovative Mechanism (&lt;a href=&#34;https://www.youtube.com/channel/UCj1NluENvVHth1V74dohlcw&#34; target=&#34;_blank&#34;&gt;IRIM&lt;/a&gt;) Lab at Korea University of Technology and Education (&lt;a href=&#34;https://www.koreatech.ac.kr/eng.do&#34; target=&#34;_blank&#34;&gt;KOREATECH&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
