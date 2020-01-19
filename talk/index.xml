@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Divya Shah</title>
+    <title>Conferences &amp; Schools | Divya Shah</title>
     <link>https://divyashah.github.io/talk/</link>
       <atom:link href="https://divyashah.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Sep 2018 13:00:00 +0000</lastBuildDate>
+    <description>Conferences &amp; Schools</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2020 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://divyashah.github.io/img/icon-192.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Conferences &amp; Schools</title>
       <link>https://divyashah.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Winter School ROBOzen 2020</title>
+      <link>https://divyashah.github.io/talk/robozen-2020/</link>
+      <pubDate>Mon, 27 Jan 2020 13:00:00 +0000</pubDate>
+      <guid>https://divyashah.github.io/talk/robozen-2020/</guid>
+      <description>
+
+&lt;h4 id=&#34;organized-by&#34;&gt;Organized by:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;International Federation for the Promotion of Mechanism and Machine Science (&lt;a href=&#34;http://iftomm.net/&#34; target=&#34;_blank&#34;&gt;IFToMM&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Faculty of Science and Technology, Free University of Bolzano (&lt;a href=&#34;https://www.unibz.it/en/faculties/sciencetechnology/&#34; target=&#34;_blank&#34;&gt;UniBz&lt;/a&gt;), Italy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
     
     <item>
       <title>Summer School PKM 2018</title>
@@ -22,8 +40,8 @@
 &lt;h4 id=&#34;organized-by&#34;&gt;Organized by:&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Laboratoire d&amp;rsquo;Informatique, de Robotique et de Microélectronique de Montpellier (&lt;a href=&#34;http://www.lirmm.fr/&#34; target=&#34;_blank&#34;&gt;LIRMM&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Laboratoire des Sciences du Numérique de Nantes (&lt;a href=&#34;https://www.ls2n.fr/&#34; target=&#34;_blank&#34;&gt;LS2N&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lirmm.fr/&#34; target=&#34;_blank&#34;&gt;Laboratoire d&amp;rsquo;Informatique, de Robotique et de Microélectronique de Montpellier (LIRMM)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ls2n.fr/&#34; target=&#34;_blank&#34;&gt;Laboratoire des Sciences du Numérique de Nantes (LS2N)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;

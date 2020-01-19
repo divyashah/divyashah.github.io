@@ -5,7 +5,7 @@
     <link>https://divyashah.github.io/tags/</link>
       <atom:link href="https://divyashah.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2020 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://divyashah.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,26 +13,42 @@
     </image>
     
     <item>
+      <title>parallel kinematic mechanisms</title>
+      <link>https://divyashah.github.io/tags/parallel-kinematic-mechanisms/</link>
+      <pubDate>Mon, 27 Jan 2020 13:00:00 +0000</pubDate>
+      <guid>https://divyashah.github.io/tags/parallel-kinematic-mechanisms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bio-inspired manipulators</title>
+      <link>https://divyashah.github.io/tags/bio-inspired-manipulators/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://divyashah.github.io/tags/bio-inspired-manipulators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>computer-aided design</title>
       <link>https://divyashah.github.io/tags/computer-aided-design/</link>
-      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://divyashah.github.io/tags/computer-aided-design/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>humanoid</title>
-      <link>https://divyashah.github.io/tags/humanoid/</link>
-      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://divyashah.github.io/tags/humanoid/</guid>
+      <title>humanoids</title>
+      <link>https://divyashah.github.io/tags/humanoids/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://divyashah.github.io/tags/humanoids/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>parallel kinematic mechanisms</title>
-      <link>https://divyashah.github.io/tags/parallel-kinematic-mechanisms/</link>
-      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://divyashah.github.io/tags/parallel-kinematic-mechanisms/</guid>
+      <title>tendon-driven mechanisms</title>
+      <link>https://divyashah.github.io/tags/tendon-driven-mechanisms/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://divyashah.github.io/tags/tendon-driven-mechanisms/</guid>
       <description></description>
     </item>
     

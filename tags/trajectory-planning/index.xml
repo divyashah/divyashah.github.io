@@ -30,9 +30,9 @@
 &lt;h3 id=&#34;increased-productivity-of-an-automated-tape-winding-system-spide-tp-platform&#34;&gt;Increased Productivity of an Automated Tape Winding System - SPIDE TP Platform&lt;/h3&gt;
 
 &lt;p&gt;This was the master thesis project during the graduate study with
- Laboratoire des Sciences du Numérique de Nantes (&lt;a href=&#34;https://www.ls2n.fr/&#34; target=&#34;_blank&#34;&gt;LS2N&lt;/a&gt;) at École Centrale de Nantes, France.&lt;/p&gt;
+ &lt;a href=&#34;https://www.ls2n.fr/&#34; target=&#34;_blank&#34;&gt;Laboratoire des Sciences du Numérique de Nantes (LS2N)&lt;/a&gt; at École Centrale de Nantes, France.&lt;/p&gt;
 
-&lt;p&gt;The project was in collaboration with Centre Technique des Industries Mécaniques (&lt;a href=&#34;https://www.cetim.fr/Le-Cetim/Implantations/Sites/Nantes&#34; target=&#34;_blank&#34;&gt;CETIM&lt;/a&gt;) and Institut Mines-Telecom Atlantique (&lt;a href=&#34;https://www.imt-atlantique.fr/fr&#34; target=&#34;_blank&#34;&gt;IMT-A&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;The project was in collaboration with &lt;a href=&#34;https://www.cetim.fr/Le-Cetim/Implantations/Sites/Nantes&#34; target=&#34;_blank&#34;&gt;Centre Technique des Industries Mécaniques (CETIM)&lt;/a&gt; and &lt;a href=&#34;https://www.imt-atlantique.fr/fr&#34; target=&#34;_blank&#34;&gt;Institut Mines-Telecom Atlantique (IMT-A)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The industry had an automated tape winding system with a 6-DOF industrial robot and a 2-DOF positioner for the workpiece. The system was kinematically redundant. The thesis involved CAD design, simulation and collision detection for the workcell and implementing optimal trajectories by solving the kinematic redundancy, aiming towards increasing the overall productivity of the system.&lt;/p&gt;
 
@@ -49,7 +49,7 @@
 &lt;h4 id=&#34;supervisors&#34;&gt;Supervisors:&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/authors/stephane-caro/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Stéphane Caro&lt;/strong&gt;&lt;/a&gt;; Researcher, Centre National de la Recherche Scientifique (&lt;a href=&#34;http://www.cnrs.fr/&#34; target=&#34;_blank&#34;&gt;CNRS&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/authors/stephane-caro/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Stéphane Caro&lt;/strong&gt;&lt;/a&gt;; Researcher, &lt;a href=&#34;http://www.cnrs.fr/&#34; target=&#34;_blank&#34;&gt;Centre National de la Recherche Scientifique (CNRS)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/authors/anatol-pashkevich/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Anatol Pashkevich&lt;/strong&gt;&lt;/a&gt;; Asso. Prof., Institut Mines-Telecom Atlantique&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/authors/benoit-courtemanche/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Benoît Courtemanche&lt;/strong&gt;&lt;/a&gt;, Engineer, Centre Technique des Industries Mécaniques&lt;/li&gt;
 &lt;/ul&gt;

@@ -3,6 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://divyashah.github.io/talk/</loc>
+    <lastmod>2020-01-27T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://divyashah.github.io/</loc>
+    <lastmod>2020-01-27T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://divyashah.github.io/tags/parallel-kinematic-mechanisms/</loc>
+    <lastmod>2020-01-27T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://divyashah.github.io/tags/</loc>
+    <lastmod>2020-01-27T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://divyashah.github.io/talk/robozen-2020/</loc>
+    <lastmod>2020-01-27T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://divyashah.github.io/tags/bio-inspired-manipulators/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://divyashah.github.io/tags/computer-aided-design/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://divyashah.github.io/tags/humanoids/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://divyashah.github.io/project/period-abroad/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://divyashah.github.io/project/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://divyashah.github.io/tags/tendon-driven-mechanisms/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://divyashah.github.io/authors/admin/</loc>
     <lastmod>2019-02-11T00:00:00+00:00</lastmod>
   </url>
@@ -33,27 +88,7 @@
   </url>
   
   <url>
-    <loc>https://divyashah.github.io/tags/computer-aided-design/</loc>
-    <lastmod>2019-02-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://divyashah.github.io/</loc>
-    <lastmod>2019-02-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://divyashah.github.io/authors/giorgio-metta/</loc>
-    <lastmod>2019-02-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://divyashah.github.io/tags/humanoid/</loc>
-    <lastmod>2019-02-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://divyashah.github.io/tags/parallel-kinematic-mechanisms/</loc>
     <lastmod>2019-02-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,18 +103,8 @@
   </url>
   
   <url>
-    <loc>https://divyashah.github.io/tags/</loc>
-    <lastmod>2019-02-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://divyashah.github.io/authors/yuanqing-wu/</loc>
     <lastmod>2019-02-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://divyashah.github.io/talk/</loc>
-    <lastmod>2018-09-17T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -149,11 +174,6 @@
   
   <url>
     <loc>https://divyashah.github.io/project/phd-project/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://divyashah.github.io/project/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
   </url>
   
