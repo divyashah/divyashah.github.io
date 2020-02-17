@@ -27,6 +27,12 @@
 &lt;/ul&gt;
 
 &lt;hr /&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Poster&lt;/strong&gt; button above to download the poster presented at this winter school.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -48,7 +54,7 @@
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click on the &lt;strong&gt;Poster&lt;/strong&gt; button above to download the poster presented at the summer school.
+    Click on the &lt;strong&gt;Poster&lt;/strong&gt; button above to download the poster presented at this summer school.
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
