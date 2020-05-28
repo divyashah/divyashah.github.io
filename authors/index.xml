@@ -5,7 +5,7 @@
     <link>https://divyashah.github.io/authors/</link>
       <atom:link href="https://divyashah.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://divyashah.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://divyashah.github.io/authors/admin/</link>
-      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://divyashah.github.io/authors/admin/</guid>
       <description>
 
@@ -35,7 +35,13 @@
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Attending the IFToMM &lt;a href=&#34;https://divyashah.github.io/talk/robozen-2020/&#34; target=&#34;_blank&#34;&gt;ROBOzen 2020&lt;/a&gt; in Bolzano, Italy.
+    Manuscript accepted for publication in &lt;a href=&#34;http://aim2020.org/&#34; target=&#34;_blank&#34;&gt;IEEE/ASME AIM 2020&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Attended the IFToMM &lt;a href=&#34;https://divyashah.github.io/talk/robozen-2020/&#34; target=&#34;_blank&#34;&gt;ROBOzen 2020&lt;/a&gt; in Bolzano, Italy.
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -52,8 +58,16 @@
     <item>
       <title>Alberto Parmiggiani</title>
       <link>https://divyashah.github.io/authors/alberto-parmiggiani/</link>
-      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://divyashah.github.io/authors/alberto-parmiggiani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yong-Jae Kim</title>
+      <link>https://divyashah.github.io/authors/yong-jae-kim/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://divyashah.github.io/authors/yong-jae-kim/</guid>
       <description></description>
     </item>
     

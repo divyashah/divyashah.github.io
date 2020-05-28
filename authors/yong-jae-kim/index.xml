@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yong-Jae Kim | Divya Shah</title>
+    <link>https://divyashah.github.io/authors/yong-jae-kim/</link>
+      <atom:link href="https://divyashah.github.io/authors/yong-jae-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yong-Jae Kim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://divyashah.github.io/img/icon-192.png</url>
+      <title>Yong-Jae Kim</title>
+      <link>https://divyashah.github.io/authors/yong-jae-kim/</link>
+    </image>
+    
+    <item>
+      <title>Constant Length Tendon Routing Mechanism through Axial Joint [In Press]</title>
+      <link>https://divyashah.github.io/publication/constant-2020/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://divyashah.github.io/publication/constant-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

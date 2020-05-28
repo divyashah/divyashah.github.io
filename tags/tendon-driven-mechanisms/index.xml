@@ -5,12 +5,20 @@
     <link>https://divyashah.github.io/tags/tendon-driven-mechanisms/</link>
       <atom:link href="https://divyashah.github.io/tags/tendon-driven-mechanisms/index.xml" rel="self" type="application/rss+xml" />
     <description>tendon-driven mechanisms</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://divyashah.github.io/img/icon-192.png</url>
       <title>tendon-driven mechanisms</title>
       <link>https://divyashah.github.io/tags/tendon-driven-mechanisms/</link>
     </image>
+    
+    <item>
+      <title>Constant Length Tendon Routing Mechanism through Axial Joint [In Press]</title>
+      <link>https://divyashah.github.io/publication/constant-2020/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://divyashah.github.io/publication/constant-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Period Abroad</title>
@@ -19,13 +27,13 @@
       <guid>https://divyashah.github.io/project/period-abroad/</guid>
       <description>
 
-&lt;h2 id=&#34;design-of-pronation-supination-joint-with-tendon-decoupling&#34;&gt;Design of Pronation-Supination Joint with Tendon Decoupling&lt;/h2&gt;
+&lt;h2 id=&#34;design-of-constant-length-tendon-routing-mechanism-through-axial-joint&#34;&gt;Design of Constant Length Tendon Routing Mechanism through Axial Joint&lt;/h2&gt;
 
-&lt;p&gt;This research project was a part of the period-abroad during the PhD, from July to October 2019. It was achieved in collaboration with the &lt;a href=&#34;https://www.youtube.com/channel/UCj1NluENvVHth1V74dohlcw&#34; target=&#34;_blank&#34;&gt;Interactive Robotics and Innovative Mechanism (IRIM)&lt;/a&gt; Lab at &lt;a href=&#34;https://www.koreatech.ac.kr/eng.do&#34; target=&#34;_blank&#34;&gt;Korea University of Technology and Education (KOREATECH)&lt;/a&gt; in Cheonan, South Korea. The project involved concept design and prototyping for a pronation-supination (forearm) joint mechanism with multiple tendon routings to allow for decoupled motions.&lt;/p&gt;
+&lt;p&gt;This research project was a part of the period-abroad during the PhD, from July to October 2019. It was achieved in collaboration with the &lt;a href=&#34;https://www.youtube.com/channel/UCj1NluENvVHth1V74dohlcw&#34; target=&#34;_blank&#34;&gt;Interactive Robotics and Innovative Mechanism (IRIM)&lt;/a&gt; Lab at &lt;a href=&#34;https://www.koreatech.ac.kr/eng.do&#34; target=&#34;_blank&#34;&gt;Korea University of Technology and Education (KOREATECH)&lt;/a&gt; in Cheonan, South Korea. The project involved concept design and prototyping of a constant length tendon routing mechanism through axial joint, or the pronation-supination (forearm) joint per se, for multiple tendons achieving decoupled motions.&lt;/p&gt;
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    More details about the project to follow &amp;hellip;
+    For more details about the project refer to the conference publication for &lt;a href=&#34;https://divyashah.github.io/publication/constant-2020/&#34; target=&#34;_blank&#34;&gt;IEEE/ASME AIM 2020&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -34,7 +42,7 @@
 &lt;h4 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Yong-Jae Kim&lt;/strong&gt;; Associate Professor, IRIM Lab @ KOREATECH&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/authors/yong-jae-kim/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Yong-Jae Kim&lt;/strong&gt;&lt;/a&gt;; Associate Professor, IRIM Lab @ KOREATECH&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
