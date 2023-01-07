@@ -1,145 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Projects | Divya Shah</title>
-    <link>https://divyashah.github.io/project/</link>
-      <atom:link href="https://divyashah.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://divyashah.github.io/img/icon-192.png</url>
-      <title>Projects</title>
-      <link>https://divyashah.github.io/project/</link>
-    </image>
-    
-    <item>
-      <title>Period Abroad</title>
-      <link>https://divyashah.github.io/project/period-abroad/</link>
-      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://divyashah.github.io/project/period-abroad/</guid>
-      <description>
-
-&lt;h2 id=&#34;design-of-constant-length-tendon-routing-mechanism-through-axial-joint&#34;&gt;Design of Constant Length Tendon Routing Mechanism through Axial Joint&lt;/h2&gt;
-
-&lt;p&gt;This research project was a part of the period-abroad during the PhD, from July to October 2019. It was achieved in collaboration with the &lt;a href=&#34;https://www.youtube.com/channel/UCj1NluENvVHth1V74dohlcw&#34; target=&#34;_blank&#34;&gt;Interactive Robotics and Innovative Mechanism (IRIM)&lt;/a&gt; Lab at &lt;a href=&#34;https://www.koreatech.ac.kr/eng.do&#34; target=&#34;_blank&#34;&gt;Korea University of Technology and Education (KOREATECH)&lt;/a&gt; in Cheonan, South Korea. The project involved concept design and prototyping of a constant length tendon routing mechanism through axial joint, or the pronation-supination (forearm) joint per se, for multiple tendons achieving decoupled motions.&lt;/p&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Also refer to the conference publication for &lt;a href=&#34;https://divyashah.github.io/publication/constant-2020/&#34; target=&#34;_blank&#34;&gt;IEEE/ASME AIM 2020&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/authors/yong-jae-kim/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Yong-Jae Kim&lt;/strong&gt;&lt;/a&gt;; Associate Professor, IRIM Lab @ KOREATECH&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PhD Project</title>
-      <link>https://divyashah.github.io/project/phd-project/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://divyashah.github.io/project/phd-project/</guid>
-      <description>
-
-&lt;h3 id=&#34;robot-design-for-dexterous-manipulation&#34;&gt;Robot Design for Dexterous Manipulation.&lt;/h3&gt;
-
-&lt;p&gt;This research project is a part of the Ph.D. with &lt;a href=&#34;http://phd.dibris.unige.it/biorob/&#34; target=&#34;_blank&#34;&gt;Dipartimento di Informatica, Bioingegneria, Robtoica e Ingegneria dei Sistemi (DIBRIS)&lt;/a&gt; at the Università degli Studi di Genova and in affiliation with the &lt;a href=&#34;https://www.iit.it/research/facilities/icub-tech&#34; target=&#34;_blank&#34;&gt;iCub Tech&lt;/a&gt; at the Istituto Italiano di Tecnologia in Genova, Italy. The Ph.D. thesis is aimed towards design of a new wrist for the &lt;a href=&#34;https://icub.org/&#34; target=&#34;_blank&#34;&gt;iCub humanoid&lt;/a&gt; with enhanced manipulation dexterity. The main focus here is the study and implementation of parallel orientational mechanisms.&lt;/p&gt;
-
-&lt;h4 id=&#34;objectives&#34;&gt;Objectives&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;To study and investigate the state-of-the-art in design for wrist dexterity.&lt;/li&gt;
-&lt;li&gt;To adapt and analyze some of the most promising architectures from the literature.&lt;/li&gt;
-&lt;li&gt;To propose a novel kinematic design for the wrist with enhanced dexterity.&lt;/li&gt;
-&lt;li&gt;To test and develop the proposed mechanism.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    More details on doctoral dissertation to follow&amp;hellip;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/authors/alberto-parmiggiani/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Alberto Parmiggiani&lt;/strong&gt;&lt;/a&gt;; Technologist &amp;amp; Facility Coordinator, Istituto Italiano di Tecnologia&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/authors/giorgio-metta/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Giorgio Metta&lt;/strong&gt;&lt;/a&gt;; Scientific Director, Istituto Italiano di Tecnologia&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Master Thesis</title>
-      <link>https://divyashah.github.io/project/master-thesis/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://divyashah.github.io/project/master-thesis/</guid>
-      <description>
-
-&lt;h3 id=&#34;increased-productivity-of-an-automated-tape-winding-system-spide-tp-platform&#34;&gt;Increased Productivity of an Automated Tape Winding System - SPIDE TP Platform&lt;/h3&gt;
-
-&lt;p&gt;This was the master thesis project during the graduate study with
- &lt;a href=&#34;https://www.ls2n.fr/&#34; target=&#34;_blank&#34;&gt;Laboratoire des Sciences du Numérique de Nantes (LS2N)&lt;/a&gt; at École Centrale de Nantes, France.&lt;/p&gt;
-
-&lt;p&gt;The project was in collaboration with &lt;a href=&#34;https://www.cetim.fr/Le-Cetim/Implantations/Sites/Nantes&#34; target=&#34;_blank&#34;&gt;Centre Technique des Industries Mécaniques (CETIM)&lt;/a&gt; and &lt;a href=&#34;https://www.imt-atlantique.fr/fr&#34; target=&#34;_blank&#34;&gt;Institut Mines-Telecom Atlantique (IMT-A)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The industry had an automated tape winding system with a 6-DOF industrial robot and a 2-DOF positioner for the workpiece. The system was kinematically redundant. The thesis involved CAD design, simulation and collision detection for the workcell and implementing optimal trajectories by solving the kinematic redundancy, aiming towards increasing the overall productivity of the system.&lt;/p&gt;
-
-&lt;p&gt;The detailed thesis documentation can be downloaded from the following links:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/project/master-thesis/master-thesis.pdf&#34; target=&#34;_blank&#34;&gt; Master Thesis &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/project/master-thesis/poster.pdf&#34; target=&#34;_blank&#34;&gt; Thesis Poster &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/project/master-thesis/slides.pdf&#34; target=&#34;_blank&#34;&gt; Defence Presentation &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&#34;supervisors&#34;&gt;Supervisors:&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/authors/stephane-caro/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Stéphane Caro&lt;/strong&gt;&lt;/a&gt;; Researcher, &lt;a href=&#34;http://www.cnrs.fr/&#34; target=&#34;_blank&#34;&gt;Centre National de la Recherche Scientifique (CNRS)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/authors/anatol-pashkevich/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Anatol Pashkevich&lt;/strong&gt;&lt;/a&gt;; Asso. Prof., Institut Mines-Telecom Atlantique&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/authors/benoit-courtemanche/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Benoît Courtemanche&lt;/strong&gt;&lt;/a&gt;, Engineer, Centre Technique des Industries Mécaniques&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bachelor Thesis</title>
-      <link>https://divyashah.github.io/project/bachelor-thesis/</link>
-      <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://divyashah.github.io/project/bachelor-thesis/</guid>
-      <description>
-
-&lt;h3 id=&#34;design-fabrication-and-control-of-an-articulated-robotic-arm&#34;&gt;Design, Fabrication and Control of an Articulated Robotic Arm&lt;/h3&gt;
-
-&lt;p&gt;This was the bachelor thesis project during the under-graduate study at &lt;a href=&#34;http://spce.ac.in/&#34; target=&#34;_blank&#34;&gt;Sardar Patel College of Engineering&lt;/a&gt;, an autonomous institute affiliated to the University of Mumbai, India.&lt;/p&gt;
-
-&lt;p&gt;The thesis involved a detailed study of mechanical design, fabrication, kinematic control and performance analysis for a 6 degrees of freedom articulated robotic arm and development of a prototype to demonstrate basic manipulation of objects.&lt;/p&gt;
-
-&lt;p&gt;The detailed thesis documentation can be downloaded from the following links:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://divyashah.github.io/project/bachelor-thesis/bachelor-thesis.pdf&#34; target=&#34;_blank&#34;&gt; Bachelor Thesis &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&#34;supervisors&#34;&gt;Supervisors:&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Rajesh Buktar&lt;/strong&gt;; Professor, Sardar Patel College of Engineering&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Divya Shah</title><link>https://divyashah.github.io/project/</link><atom:link href="https://divyashah.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><image><url>https://divyashah.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://divyashah.github.io/project/</link></image><item><title>Design for Dexterity</title><link>https://divyashah.github.io/project/design-for-dexterity/</link><pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate><guid>https://divyashah.github.io/project/design-for-dexterity/</guid><description>&lt;h3 id="robot-design-for-dexterous-manipulation">Robot Design for Dexterous Manipulation&lt;/h3>
+&lt;p style="text-align: justify;">This research project is a part of the Ph.D. with &lt;a href="http://phd.dibris.unige.it/biorob/" target="_blank" rel="noopener">Dipartimento di Informatica, Bioingegneria, Robtoica e Ingegneria dei Sistemi (DIBRIS)&lt;/a> at the Università degli Studi di Genova and in affiliation with the &lt;a href="https://www.iit.it/web/icub-tech" target="_blank" rel="noopener">iCub Tech&lt;/a> at the Istituto Italiano di Tecnologia in Genova, Italy. The Ph.D. thesis is aimed towards design of a new wrist for the &lt;a href="https://icub.iit.it/" target="_blank" rel="noopener">iCub humanoid&lt;/a> with enhanced manipulation dexterity. The main focus here is the study and implementation of parallel orientational mechanisms.&lt;/p>
+&lt;h4 id="objectives">Objectives&lt;/h4>
+&lt;ul>
+&lt;li>To study and investigate the state-of-the-art in design for wrist dexterity.&lt;/li>
+&lt;li>To adapt and analyze some of the most promising architectures from the literature.&lt;/li>
+&lt;li>To propose a novel kinematic design for the wrist with enhanced dexterity.&lt;/li>
+&lt;li>To test and develop the proposed mechanism.&lt;/li>
+&lt;/ul>
+&lt;h4 id="supervisors">Supervisors&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Alberto Parmiggiani&lt;/strong>; Technologist &amp;amp; Facility Coordinator, Istituto Italiano di Tecnologia&lt;/li>
+&lt;li>&lt;strong>Giorgio Metta&lt;/strong>; Scientific Director, Istituto Italiano di Tecnologia&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;div class="alert alert-note">
+&lt;div>
+Also check out the project of &lt;a href="./project/../../visiting-researcher/">visiting-researcher&lt;/a>, which was a part of the doctoral program.
+&lt;/div>
+&lt;/div>
+&lt;hr></description></item><item><title>Visiting Researcher</title><link>https://divyashah.github.io/project/visiting-researcher/</link><pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate><guid>https://divyashah.github.io/project/visiting-researcher/</guid><description>&lt;h3 id="design-of-constant-length-tendon-routing-mechanism-through-axial-joint">Design of Constant Length Tendon Routing Mechanism through Axial Joint&lt;/h3>
+&lt;p style="text-align: justify;">This research project was a part of the period-abroad during the PhD, from July to October 2019. It was achieved in collaboration with the &lt;a href="https://www.youtube.com/channel/UCj1NluENvVHth1V74dohlcw" target="_blank" rel="noopener">Interactive Robotics and Innovative Mechanism (IRIM)&lt;/a> Lab at &lt;a href="https://www.koreatech.ac.kr/eng.do" target="_blank" rel="noopener">Korea University of Technology and Education (KOREATECH)&lt;/a> in Cheonan, South Korea. The project involved concept design and prototyping of a constant length tendon routing mechanism through axial joint, or the pronation-supination (forearm) joint per se, for multiple tendons achieving decoupled motions.&lt;/p>
+&lt;h4 id="supervisors">Supervisors&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Yong-Jae Kim&lt;/strong>; Associate Professor, IRIM Lab, KOREATECH&lt;/li>
+&lt;/ul>
+&lt;hr></description></item><item><title>Optimization for Productivity</title><link>https://divyashah.github.io/project/optimization-for-productivity/</link><pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate><guid>https://divyashah.github.io/project/optimization-for-productivity/</guid><description>&lt;h3 id="increased-productivity-of-an-automated-tape-winding-system---spide-tp-platform">Increased Productivity of an Automated Tape Winding System - SPIDE TP Platform&lt;/h3>
+&lt;p style="text-align: justify;">This was the master thesis project during the graduate study with &lt;a href="https://www.ls2n.fr/" target="_blank" rel="noopener">Laboratoire des Sciences du Numérique de Nantes (LS2N)&lt;/a> at École Centrale de Nantes, France. The project was also in collaboration with &lt;a href="https://www.cetim.fr/Le-Cetim/Implantations/Sites/Nantes" target="_blank" rel="noopener">Centre Technique des Industries Mécaniques (CETIM)&lt;/a> and &lt;a href="https://www.imt-atlantique.fr/fr" target="_blank" rel="noopener">Institut Mines-Telecom Atlantique (IMT-A)&lt;/a>.&lt;/p>
+&lt;p style="text-align: justify;">The industry had an automated tape winding system with a 6-DOF industrial robot and a 2-DOF positioner for the workpiece. The system was kinematically redundant. The thesis involved CAD design, simulation and collision detection for the workcell and implementing optimal trajectories by solving the kinematic redundancy, aiming towards increasing the overall productivity of the system. The detailed thesis documentation can be downloaded from the following links:&lt;/p>
+&lt;h4 id="supervisors">Supervisors:&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Stéphane Caro&lt;/strong>; Researcher, &lt;a href="http://www.cnrs.fr/" target="_blank" rel="noopener">Centre National de la Recherche Scientifique (CNRS)&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Anatol Pashkevich&lt;/strong>; Asso. Prof., Institut Mines-Telecom Atlantique&lt;/li>
+&lt;li>&lt;strong>Benoît Courtemanche&lt;/strong>; Engineer, &lt;a href="https://www.cetim.fr/en" target="_blank" rel="noopener">Centre Technique des Industries Mécaniques (CETIM)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;strong>&lt;em>Poster&lt;/em>&lt;/strong> button above to view the poster related to this project.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;strong>&lt;em>Slides&lt;/em>&lt;/strong> button above to view the slides presented for the defence of this master thesis.
+&lt;/div>
+&lt;/div>
+&lt;hr></description></item><item><title>Undergrad Project</title><link>https://divyashah.github.io/project/undergrad-project/</link><pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate><guid>https://divyashah.github.io/project/undergrad-project/</guid><description>&lt;h3 id="design-fabrication-and-control-of-an-articulated-robotic-arm">Design, Fabrication and Control of an Articulated Robotic Arm&lt;/h3>
+&lt;p style="text-align: justify;">This was the bachelor thesis project during the under-graduate study at &lt;a href="http://spce.ac.in/" target="_blank" rel="noopener">Sardar Patel College of Engineering&lt;/a>, an autonomous institute affiliated to the University of Mumbai, India. The thesis involved a detailed study of mechanical design, fabrication, kinematic control and performance analysis for a 6 degrees of freedom articulated robotic arm and development of a prototype to demonstrate basic manipulation of objects.&lt;/p>
+&lt;h4 id="supervisors">Supervisors&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Rajesh Buktar&lt;/strong>; Professor, Sardar Patel College of Engineering&lt;/li>
+&lt;/ul>
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;strong>&lt;em>PDF&lt;/em>&lt;/strong> button above to view the bachelor thesis.
+&lt;/div>
+&lt;/div>
+&lt;hr></description></item></channel></rss>

@@ -1,69 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Publications | Divya Shah</title>
-    <link>https://divyashah.github.io/publication/</link>
-      <atom:link href="https://divyashah.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://divyashah.github.io/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>https://divyashah.github.io/publication/</link>
-    </image>
-    
-    <item>
-      <title>Constant Length Tendon Routing Mechanism through Axial Joint</title>
-      <link>https://divyashah.github.io/publication/constant-2020/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://divyashah.github.io/publication/constant-2020/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Also check-out the &lt;a href=&#34;https://divyashah.github.io/project/period-abroad/&#34; target=&#34;_blank&#34;&gt;Period-Abroad&lt;/a&gt; project page.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Comparison of Robot Wrist Implementations for the iCub Humanoid.</title>
-      <link>https://divyashah.github.io/publication/mdr-2019/</link>
-      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://divyashah.github.io/publication/mdr-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparison of Workspace Analysis for Different Spherical Parallel Mechanisms</title>
-      <link>https://divyashah.github.io/publication/comparison-2018/</link>
-      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://divyashah.github.io/publication/comparison-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Workspace Analysis and the Effect of Geometric Parameters on Parallel Mechanisms of the N-UU Class</title>
-      <link>https://divyashah.github.io/publication/worksapce-2018/</link>
-      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://divyashah.github.io/publication/worksapce-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detection of bimanual gestures everywhere: why it matters, what we need and what is missing</title>
-      <link>https://divyashah.github.io/publication/ras-2017/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://divyashah.github.io/publication/ras-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer-Aided Design and Optimization of a Redundant Robotic System for Automated Fiber Placement Process</title>
-      <link>https://divyashah.github.io/publication/cad-2017/</link>
-      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://divyashah.github.io/publication/cad-2017/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | Divya Shah</title><link>https://divyashah.github.io/publication/</link><atom:link href="https://divyashah.github.io/publication/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><image><url>https://divyashah.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Publications</title><link>https://divyashah.github.io/publication/</link></image><item><title>Design of Wrist and Forearm Mechanisms for Enhanced Humanoid Dexterity</title><link>https://divyashah.github.io/publication/thesis-phd-unige-2021/</link><pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate><guid>https://divyashah.github.io/publication/thesis-phd-unige-2021/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;strong>&lt;em>Cite&lt;/em>&lt;/strong> button above to copy the citation text.
+&lt;/div>
+&lt;/div>
+&lt;hr></description></item><item><title>Constant Length Tendon Routing Mechanism through Axial Joint</title><link>https://divyashah.github.io/publication/ieee-asme-aim-2020/</link><pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate><guid>https://divyashah.github.io/publication/ieee-asme-aim-2020/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;strong>&lt;em>Cite&lt;/em>&lt;/strong> button above to copy the citation text.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Check out the talk presented here: &lt;a href="./../../../talk/conf-ieee-asme-aim-2020/">IEEE-ASME-AIM-2020&lt;/a>.
+&lt;/div>
+&lt;/div>
+&lt;hr></description></item><item><title>A Comparison of Robot Wrist Implementations for the iCub Humanoid</title><link>https://divyashah.github.io/publication/mdpi-robotics-2019/</link><pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate><guid>https://divyashah.github.io/publication/mdpi-robotics-2019/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;strong>&lt;em>Cite&lt;/em>&lt;/strong> button above to copy the citation text.
+&lt;/div>
+&lt;/div>
+&lt;hr></description></item><item><title>Comparison of Workspace Analysis for Different Spherical Parallel Mechanisms</title><link>https://divyashah.github.io/publication/iftomm-meder-2018/</link><pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate><guid>https://divyashah.github.io/publication/iftomm-meder-2018/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;strong>&lt;em>Cite&lt;/em>&lt;/strong> button above to copy the citation text.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Check out the talk presented here: &lt;a href="./../../../talk/conf-iftomm-meder-2018/">IFTOMM-MEDER-2018&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;hr></description></item><item><title>Workspace Analysis and the Effect of Geometric Parameters on Parallel Mechanisms of the N-UU Class</title><link>https://divyashah.github.io/publication/asme-idetc-2018/</link><pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate><guid>https://divyashah.github.io/publication/asme-idetc-2018/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;strong>&lt;em>Cite&lt;/em>&lt;/strong> button above to copy the citation text.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Check out the talk presented here: &lt;a href="./../../../talk/conf-asme-idetc-2018/">ASME-IDETC-2018&lt;/a>.
+&lt;/div>
+&lt;/div>
+&lt;hr></description></item><item><title>Detection of bimanual gestures everywhere: why it matters, what we need and what is missing</title><link>https://divyashah.github.io/publication/elsevier-ras-2017/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://divyashah.github.io/publication/elsevier-ras-2017/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;strong>&lt;em>Cite&lt;/em>&lt;/strong> button above to copy the citation text.
+&lt;/div>
+&lt;/div>
+&lt;hr></description></item><item><title>Computer-Aided Design and Optimization of a Redundant Robotic System for Automated Fiber Placement Process</title><link>https://divyashah.github.io/publication/aip-icome-2017/</link><pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate><guid>https://divyashah.github.io/publication/aip-icome-2017/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;strong>&lt;em>Cite&lt;/em>&lt;/strong> button above to copy the citation text.
+&lt;/div>
+&lt;/div>
+&lt;hr></description></item><item><title>Increased Productivity of an Automated Tape Winding Process: SPIDE-TP Platform</title><link>https://divyashah.github.io/publication/thesis-master-emaro-2017/</link><pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate><guid>https://divyashah.github.io/publication/thesis-master-emaro-2017/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;strong>&lt;em>PDF&lt;/em>&lt;/strong> button above to download the thesis pdf.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;strong>&lt;em>Cite&lt;/em>&lt;/strong> button above to copy the citation text.
+&lt;/div>
+&lt;/div>
+&lt;hr></description></item></channel></rss>
