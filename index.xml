@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Divya Shah</title><link>https://divyashah.github.io/</link><atom:link href="https://divyashah.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Divya Shah</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://divyashah.github.io/media/icon_hud9c7f1e508fc4430b33a3f318012ba62_3161319_512x512_fill_lanczos_center_3.png</url><title>Divya Shah</title><link>https://divyashah.github.io/</link></image><item><title>Ergocub</title><link>https://divyashah.github.io/project/ergocub/</link><pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate><guid>https://divyashah.github.io/project/ergocub/</guid><description>&lt;h3 id="design-and-development-of-humanoid-joint-modules">Design and development of humanoid joint modules&lt;/h3>
-&lt;p style="text-align: justify;">The &lt;a href="https://ergocub.eu/" target="_blank" rel="noopener">ergoCub&lt;/a> project, funded by INAIL, involves design and development of new humanoid robotic platforms and wearables technologies to assist labourers in warehouse and hospital scenarios. My contributions involve design, testing and development of complex integrated mechanical and electrical components to form a compact and powerful joint modules for the forthcoming version &lt;em>ergoCub 2.0&lt;/em> humanoid robot.&lt;/p>
+&lt;p style="text-align: justify;">The &lt;a href="https://ergocub.eu/" target="_blank" rel="noopener">ergoCub&lt;/a> project, funded by INAIL, involves design and development of new humanoid robotic platforms and wearables technologies to assist labourers in warehouse and hospital scenarios.&lt;/p>
+&lt;p style="text-align: justify;">My contributions involve mechanical design, testing and development of complex integrated mechanical and electrical components to form compact and powerful joint modules for the forthcoming version &lt;em>ergoCub 2.0&lt;/em> humanoid robot.&lt;/p>
 &lt;h4 id="supervisors">Supervisors&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Marco Maggiali&lt;/strong>; Facility Coordinator, iCubTech Facility, Istituto Italiano di Tecnologia&lt;/li>
@@ -31,12 +32,7 @@ Click the &lt;strong>&lt;em>Cite&lt;/em>&lt;/strong> button above to copy the ci
 &lt;/div>
 &lt;hr></description></item><item><title>Workshop - IEEE ICRA PKM 2021</title><link>https://divyashah.github.io/talk/ws-ieee-icra-2021/</link><pubDate>Fri, 04 Jun 2021 09:00:00 +0000</pubDate><guid>https://divyashah.github.io/talk/ws-ieee-icra-2021/</guid><description>&lt;h2 id="ieee-icra-workshop-on-parallel-robots-or-not-parallel-robots-new-frontiers-of-parallel-robotics-2021" style="text-align: justify;">IEEE ICRA Workshop on &lt;em>Parallel robots or not parallel robots? New frontiers of parallel robotics&lt;/em> 2021&lt;/h2>
 &lt;p style="text-align: justify;">This workshop aimed at bringing together researchers working in several distinct communities (e.g. soft/continuum robotics, compliant mechanisms, aerial robotics, cable-driven robotics, tensegrity structures, dexterous manipulation and physical interactions), but who have a similar object of investigation in common, i.e. a closed-chain robotic device, so that they could share their experiences, tools, issues; and at fostering researchers to investigate the new issues arising from the development of new types of robots.&lt;/p>
-&lt;p style="text-align: justify;">Presented a part of the doctoral research, on &lt;em>A Study on Flexible Parallel Robots via Additive Manufacturing&lt;/em>, as a contributed paper at this workshop.&lt;/p>
-&lt;div class="alert alert-note">
-&lt;div>
-Click on the &lt;strong>PDF&lt;/strong> button above to view the draft of the paper submitted for this workshop.
-&lt;/div>
-&lt;/div>
+&lt;p style="text-align: justify;">Presented a part of the doctoral research, on &lt;em>A Study on Flexible Parallel Robots via Additive Manufacturing&lt;/em>, at this workshop.&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the slides presented at this talk.
@@ -226,7 +222,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-783152694" class="chart">&lt;/div>
+&lt;div id="chart-512934876" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -235,7 +231,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-783152694', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-512934876', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
